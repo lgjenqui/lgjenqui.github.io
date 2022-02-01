@@ -148,6 +148,11 @@ footer {
     color: #8a8a8a;
 }
 
+img {
+  max-width: 80%;
+  height: auto;
+}
+
 #footer {
     position: absolute;
     bottom: 0;
